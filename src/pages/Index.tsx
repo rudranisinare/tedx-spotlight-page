@@ -17,7 +17,7 @@ const Index = () => {
   const talkData = {
     title: "How to be confident (even if you're not)",
     speaker: "Montana von Fliss",
-    event: "TEDxBellevueWomen",
+    event: "TEDxMDIGurgoan",
     date: "December 2019",
     videoId: "eVFzbxmKNUw",
     summary: "Montana von Fliss shares powerful insights on building confidence from the inside out. Drawing from her experience in comedy and personal development, she reveals that confidence isn't about feeling fearless—it's about moving forward despite your fears. Through practical strategies and vulnerable storytelling, Montana demonstrates how anyone can develop authentic confidence by reframing their relationship with uncertainty and self-doubt.",
@@ -145,7 +145,7 @@ const Index = () => {
       <footer className="bg-foreground text-background py-8 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-sm">
-            © 2024 TEDxBellevueWomen. This independent TEDx event is operated under license from TED.
+            © 2024 TEDxMDIGurgoan. This independent TEDx event is operated under license from TED.
           </p>
         </div>
       </footer>
